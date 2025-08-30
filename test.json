@@ -1,0 +1,6 @@
+{
+  "modelId": "stability.stable-diffusion-xl-v1",
+  "contentType": "application/json",
+  "accept": "application/json",
+  "body": "{\"text_prompts\":[{\"text\":\"Sri Lanka tea plantation\",\"weight\":1}],\"cfg_scale\":7,\"seed\":42,\"steps\":50,\"width\":512,\"height\":512}"
+}
